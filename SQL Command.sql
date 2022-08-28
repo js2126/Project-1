@@ -45,7 +45,7 @@ UNION
 SELECT * FROM cyber_salaries WHERE employee_residence = 'GB'
 ORDER BY data_type; 
 
-#upload then finished
+
 
 
 
