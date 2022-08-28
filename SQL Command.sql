@@ -27,6 +27,7 @@ CREATE TABLE cyber_salaries(
     company_location CHAR(2),
     company_size CHAR(1)	
 );
+#Data was added through "Table Data Import Wizard"
 
 SELECT * FROM cyber_salaries; 
 
